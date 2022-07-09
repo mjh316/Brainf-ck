@@ -1,2 +1,3 @@
-# Brainf*ck
- A simple brainf*ck interpreter written in C.
+# Brainf\*ck
+
+A simple [brainf\*ck](https://esolangs.org/wiki/Brainfuck) interpreter written in C.
