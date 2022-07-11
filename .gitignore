@@ -53,3 +53,9 @@ dkms.conf
 main
 *.swp
 works.c
+
+.fake
+.vscode/*
+main
+bftoc
+workingTMPFILE.c
